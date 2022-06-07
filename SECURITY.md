@@ -2,9 +2,9 @@
 
 > Our security policy is to avoid leaving the ecosystem worse than we found it. Meaning we are not planning to introduce vulnerabilities into the ecosystem.
 
-The `"MY PROJECT"` team and community take all security bugs seriously.
+Our team take all security bugs seriously.
 
-If you believe you have found a security vulnerability in `"MY PROJECT"` repository, please report it to us as described below.
+If you believe you have found a security vulnerability in this repository, please report it to us as described below.
 
 ## Reporting Security Issue
 
