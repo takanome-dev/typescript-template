@@ -17,7 +17,7 @@ And that's it 🎉🎉
 This project welcomes contributions and suggestions.
 Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
-## LICENSE
+## :balance_scale: LICENSE
 
 The scripts and documentation in this project are released under the [YOUR_LICENCE](#️-licence)
 
